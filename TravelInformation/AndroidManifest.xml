@@ -7,6 +7,7 @@
     <uses-sdk
         android:minSdkVersion="14"
         android:targetSdkVersion="21" />
+    <supports-screens android:anyDensity="true" android:compatibleWidthLimitDp="480" android:smallScreens="true" android:resizeable="true" android:largeScreens="true" android:normalScreens="true" android:largestWidthLimitDp="480" android:xlargeScreens="true" android:requiresSmallestWidthDp="480"/>
 
     <application
         android:allowBackup="true"
@@ -22,6 +23,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name="LoginActivity"></activity>
     </application>
 
 </manifest>
