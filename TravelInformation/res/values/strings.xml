@@ -2,7 +2,12 @@
 <resources>
 
     <string name="app_name">TravelInformation</string>
-    <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
 
+    
+    <!-- MainActivity text-->
+    <string name="draw_open">Open drawer</string>
+    <string name="draw_close">Close drawer</string>
+    
+    
 </resources>
