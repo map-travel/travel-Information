@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">活動任我行</string>
+    <string name="action_settings">Settings</string>
+
+    
+    <!-- MainActivity text-->
+    <string name="draw_open">Open drawer</string>
+    <string name="draw_close">Close drawer</string>
+    <string-array name="menu_content">
+        <item >IrisLoo</item>
+        <item >預定行程</item>
+        <item >設置</item>
+        <item >主頁</item>
+        <item >活動日</item>
+        <item >最新活動</item>
+        <item >關於我們</item>
+    </string-array>
+    
+    
+</resources>
