@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">TravelInformation</string>
+    <string name="app_name">活動任我行</string>
     <string name="action_settings">Settings</string>
 
-    
-    <!-- MainActivity text-->
+    <!-- MainActivity text -->
     <string name="draw_open">Open drawer</string>
     <string name="draw_close">Close drawer</string>
-    
-    
+    <string name="IrisLoo">IrisLoo</string>
+    <string name="Schedule">預定行程</string>
+    <string name="Setting">設置</string>
+    <string name="Home">主頁</string>
+    <string name="Activity">活動日</string>
+    <string name="NewMsg">最新活動</string>
+    <string name="About">關於我們</string>
+
 </resources>
