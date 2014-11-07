@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">TravelInformation</string>
+    <string name="app_name">活動任我行</string>
     <string name="action_settings">Settings</string>
 
-    
-    <!-- MainActivity text-->
-    <string name="draw_open">Open drawer</string>
-    <string name="draw_close">Close drawer</string>
-    
-    
+    <!-- MainActivity text -->
+   
+
 </resources>

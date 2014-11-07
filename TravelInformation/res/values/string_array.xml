@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu_content">
+        <item>@string/IrisLoo</item>
+        <item>@string/Schedule</item>
+        <item>@string/Setting</item>
+        <item>@string/Home</item>
+        <item>@string/Activity</item>
+        <item>@string/NewMsg</item>
+        <item>@string/About</item>
+    </string-array>
+
+</resources>
