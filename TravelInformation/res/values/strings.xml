@@ -5,6 +5,14 @@
     <string name="action_settings">Settings</string>
 
     <!-- MainActivity text -->
-   
-
+  	<string name="draw_open"></string>
+	<string name="draw_close"></string>
+	<string name="IrisLoo"></string>
+	<string name="Schedule"></string>
+	<string name="Home"></string>
+	<string name="Activity"></string>
+	<string name="NewMsg"></string>
+	<string name="About"></string>
+	<string name="Setting"></string>
+	
 </resources>
