@@ -2,13 +2,12 @@
 <resources>
 
     <string-array name="menu_content">
-        <item>@string/IrisLoo</item>
-        <item>@string/Schedule</item>
-        <item>@string/Setting</item>
-        <item>@string/Home</item>
-        <item>@string/Activity</item>
-        <item>@string/NewMsg</item>
-        <item>@string/About</item>
+        <item>@string/page1</item>
+        <item>@string/page2</item>
+        <item>@string/page3</item>
+        <item>@string/page4</item>
+        <item>@string/page5</item>
+        <item>@string/about</item>
     </string-array>
 
 </resources>
