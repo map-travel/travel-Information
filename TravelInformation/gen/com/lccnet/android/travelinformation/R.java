@@ -33,12 +33,17 @@ public final class R {
         public static final int ic_drawer=0x7f020001;
         public static final int ic_launcher=0x7f020002;
         public static final int login=0x7f020003;
+        public static final int one_o_one=0x7f020004;
     }
     public static final class id {
-        public static final int action_settings=0x7f0a0003;
-        public static final int content_frame=0x7f0a0001;
-        public static final int drawer_layout=0x7f0a0000;
-        public static final int left_menu=0x7f0a0002;
+        public static final int RelativeLayout1=0x7f0a0000;
+        public static final int TextView1=0x7f0a0001;
+        public static final int action_settings=0x7f0a0007;
+        public static final int content_frame=0x7f0a0005;
+        public static final int drawer_layout=0x7f0a0004;
+        public static final int left_menu=0x7f0a0006;
+        public static final int login=0x7f0a0002;
+        public static final int sign_up=0x7f0a0003;
     }
     public static final class layout {
         public static final int activity_login=0x7f030000;
@@ -69,12 +74,14 @@ public final class R {
         public static final int draw_close=0x7f070003;
         public static final int draw_open=0x7f070002;
         public static final int hello_world=0x7f070012;
+        public static final int login=0x7f070015;
         public static final int page1=0x7f07000b;
         public static final int page2=0x7f07000c;
         public static final int page3=0x7f07000d;
         public static final int page4=0x7f07000e;
         public static final int page5=0x7f07000f;
         public static final int setting=0x7f07000a;
+        public static final int sign_up=0x7f070014;
         public static final int title_activity_main=0x7f070011;
         public static final int title_activity_sign_in=0x7f070013;
     }
