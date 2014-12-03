@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">活動任我行/string>
+    <string name="action_settings">Settings</string>
+    <string name="draw_open">open</string>
+    <string name="draw_close">close</string>
+    <string name="IrisLoo"></string>
+    <string name="Schedule"></string>
+    <string name="Home"></string>
+    <string name="Activity"></string>
+    <string name="NewMsg"></string>
+    <string name="About"></string>
+    <string name="setting"></string>
+
+    <string name="page1">Page1</string>
+    <string name="page2">Page2</string>
+    <string name="page3">Page3</string>
+    <string name="page4">Page4</string>
+    <string name="page5">Page5</string>
+    <string name="about">關於我們</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_sign_in">SignInActivity</string>
+    <string name="sign_up">申請</string>
+    <string name="login">登入</string>
+</resources>
